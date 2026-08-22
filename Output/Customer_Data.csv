@@ -1,4 +1,12 @@
 CustomerID,Name,Address,Email,Phone,TransactionID,ProductID,ProductName,ProductCategory,PurchasedBy,PurchaseDate,TransactionAmount,LastTransactionDate
-CUST00001,Diya Sharma,260 Anna Nagar, Delhi, Delhi 110001,diya.sharma143@example.com,+91-9163119785,TXN0100001,P1009,Air Purifier,Home,Diya Sharma,2024-04-14,9434.29,2024-06-07
-CUST00002,Ananya Sharma,233 Anna Nagar, Bengaluru, Karnataka 560001,ananya.sharma518@example.com,+91-8585650756,TXN0100002,P1009,Air Purifier,Home,Ananya Sharma,2024-01-28,12567.45,2024-04-20
+CUST00001,Diya Sharma,"260 Anna Nagar, Delhi, Delhi 110001",diya.sharma143@example.com,+91-9163119785,TXN0100001,P1009,Air Purifier,Home,Diya Sharma,2024-04-14,9434.29,2024-06-07
+CUST00002,Ananya Sharma,"233 Anna Nagar, Bengaluru, Karnataka 560001",ananya.sharma518@example.com,+91-8585650756,TXN0100002,P1009,Air Purifier,Home,Ananya Sharma,2024-01-28,12567.45,2024-04-20
+CUST00003,Pooja Verma,"469 Lake View Road, Mumbai, Maharashtra 400001",pooja.verma285@example.com,+91-9476477323,TXN0100003,P1001,Laptop Pro 14,Electronics,Pooja Verma,2026-06-09,106734.41,2026-06-29
+CUST00004,Neha Menon,"169 Anna Nagar, Delhi, Delhi 110001",neha.menon981@example.com,+91-9279182318,TXN0100004,P1002,Wireless Headphones,Electronics,Neha Menon,2024-12-10,3937.56,2024-12-22
+CUST00005,Sneha Das,"280 MG Road, Jaipur, Rajasthan 302001",sneha.das748@example.com,+91-7973214822,TXN0100005,P1002,Wireless Headphones,Electronics,Sneha Das,2025-07-03,17583.29,2025-08-20
+CUST00006,Arjun Chopra,"859 Gandhi Street, Delhi, Delhi 110001",arjun.chopra634@example.com,+91-9802986287,TXN0100006,P1006,Running Shoes,Sports,Arjun Chopra,2026-06-01,7984.85,2026-08-30
+CUST00007,Arjun Iyer,"801 Park Street, Mumbai, Maharashtra 400001",arjun.iyer82@example.com,+91-9673561638,TXN0100007,P1002,Wireless Headphones,Electronics,Arjun Iyer,2024-08-26,8391.96,2024-10-23
+CUST00008,Sneha Mehta,"373 Anna Nagar, Pune, Maharashtra 411001",sneha.mehta687@example.com,+91-7146660997,TXN0100008,P1002,Wireless Headphones,Electronics,Sneha Mehta,2025-12-19,11941.53,2026-01-09
+CUST00009,Pooja Khan,"483 Main Road, Hyderabad, Telangana 500001",pooja.khan277@example.com,+91-9974524834,TXN0100009,P1009,Air Purifier,Home,Pooja Khan,2025-10-17,13149.22,2025-11-27
+CUST00010,Ananya Khan,"834 Park Street, Chennai, Tamil Nadu 600001",ananya.khan411@example.com,+91-7149938334,TXN0100010,P1004,Office Chair,Furniture,Ananya Khan,2024-03-08,26175.86,2024-05-19
 ...
