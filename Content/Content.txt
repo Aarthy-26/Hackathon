@@ -3,72 +3,85 @@
   "email": {
     "email_address": "demo@shop.local",
     "subject": "Welcome! Get 15% off Essential Crewneck Tee",
-    "body": "Dear Demo Shopper,\n\nWelcome to our store! We're excited to offer you 15% off your first order on the Essential Crewneck Tee. This affordable entry product is now just $20.40 (originally $24.00).\n\nThis special offer is valid for 7 days, so don't miss out on this great deal to start your shopping journey with us.\n\nThanks,\nDemo Shopper\n\nUnsubscribe here.\n\nCompany Name | Physical Address"
+    "body": "Dear Demo Shopper,\n\nWelcome to our store! We're excited to offer you 15% off your first order on the Essential Crewneck Tee. This affordable entry product is now just $20.40 (originally $24.00).\n\nThis offer is valid for 7 days, so don't miss out on this great deal to start your shopping journey with us.\n\nView Offer\n\nThanks,\nDemo Shopper\n\nUnsubscribe here.\n\n[Company Name]\n[Physical Address]"
   },
   "push": {
-    "title": "15% off Essential Crewneck Tee",
-    "content": "Welcome! Get your first order discount on Essential Crewneck Tee at $20.40. Offer valid for 7 days. Unsubscribe here."
+    "title": "Welcome! 15% off Essential Crewneck Tee",
+    "content": "Get 15% off your first order. Essential Crewneck Tee now $20.40. Offer valid for 7 days. Unsubscribe here."
   }
 }
+
+---
 
 {
   "customer_id": "c392a12d-7a39-490e-92c8-339e0716ab32",
   "email": {
     "email_address": "test1@test.com",
     "subject": "Start shopping with 15% off Fleece Pullover Hoodie",
-    "body": "Dear test1,\n\nStart your shopping experience with us! Enjoy 15% off on the Fleece Pullover Hoodie, a mid-price comfort item. Now available at $37.40 (sale price from $44.00).\n\nThis offer is valid for 5 days, giving you plenty of time to complete your purchase.\n\nThanks,\ntest1\n\nUnsubscribe here.\n\nCompany Name | Physical Address"
+    "body": "Dear test1,\n\nStart your shopping experience with us! Enjoy 15% off on our comfortable Fleece Pullover Hoodie. Already on sale at $44.00, your price is now just $37.40.\n\nThis mid-price comfort item is perfect for any season. Offer valid for 5 days.\n\nShop Now\n\nThanks,\ntest1\n\nUnsubscribe here.\n\n[Company Name]\n[Physical Address]"
   },
   "whatsapp": {
-    "message": "Hi test1! Start shopping with 15% off. Fleece Pullover Hoodie now $37.40. Offer ends in 5 days. Reply STOP to unsubscribe."
+    "phone_number": "1111111111",
+    "message": "Hi test1! Start shopping with 15% off. Fleece Pullover Hoodie now $37.40 (was $44.00). Offer ends in 5 days. Reply STOP to unsubscribe."
   }
 }
+
+---
 
 {
   "customer_id": "1795738e-5349-462f-bb03-5cade99ea222",
   "email": {
     "email_address": "test2@test.com",
     "subject": "Your AirPods Pro are waiting! 20% off inside",
-    "body": "Dear test2,\n\nYour Apple AirPods Pro (2nd Gen) are waiting in your cart! Complete your purchase with 20% off and get them for just $175.20 (from $219.00).\n\nThis exclusive offer expires in 48 hours, so act now to secure this deal on the audio equipment you've been viewing.\n\nThanks,\ntest2\n\nUnsubscribe here.\n\nCompany Name | Physical Address"
+    "body": "Dear test2,\n\nYour Apple AirPods Pro (2nd Gen) are waiting in your cart! Complete your purchase now and save 20%.\n\nSale price: $219.00\nYour price with 20% off: $175.20\n\nThis exclusive offer expires in 48 hours, so act now to secure this premium audio experience.\n\nClaim Discount\n\nThanks,\ntest2\n\nUnsubscribe here.\n\n[Company Name]\n[Physical Address]"
   },
   "whatsapp": {
-    "message": "Hi test2! Your AirPods Pro await. Complete purchase with 20% off - only $175.20. Offer expires in 48 hours. Reply STOP to unsubscribe."
+    "phone_number": "1111111111",
+    "message": "Hi test2! Your AirPods Pro are waiting. Complete your purchase with 20% off - only $175.20 (was $219.00). Offer expires in 48 hours. Reply STOP to unsubscribe."
   },
   "push": {
-    "title": "20% off Apple AirPods Pro",
-    "content": "Your cart is waiting! Get Apple AirPods Pro for $175.20. Offer expires in 48 hours. Unsubscribe here."
+    "title": "Your AirPods Pro await! 20% off",
+    "content": "Complete your purchase now. Apple AirPods Pro 20% off - $175.20. Expires in 48 hours. Unsubscribe here."
   }
 }
+
+---
 
 {
   "customer_id": "56d1dbcf-5ddf-4d9c-bb52-fc83f1f85b46",
   "email": {
     "email_address": "test3@test.com",
     "subject": "Complete your MacBook Pro setup with 10% off",
-    "body": "Dear test3,\n\nComplete your MacBook Pro setup! The Apple AirPods Pro (2nd Gen) offer seamless integration with your new laptop. Enjoy 10% off and get them for $197.10 (from $219.00 sale price).\n\nThis complementary Apple ecosystem product will enhance your experience. Offer valid for 14 days.\n\nThanks,\ntest3\n\nUnsubscribe here.\n\nCompany Name | Physical Address"
+    "body": "Dear test3,\n\nComplete your MacBook Pro setup with Apple AirPods Pro (2nd Gen). Enjoy seamless integration with your new laptop and save 10%.\n\nSale price: $219.00\nYour price with 10% off: $197.10\n\nThis complementary Apple ecosystem product enhances your premium experience. Offer valid for 14 days.\n\nView Offer\n\nThanks,\ntest3\n\nUnsubscribe here.\n\n[Company Name]\n[Physical Address]"
   }
 }
+
+---
 
 {
   "customer_id": "aa878b8d-a03b-4639-bba1-48b7b432243c",
   "email": {
     "email_address": "test4@test.com",
     "subject": "Premium flagship at a better price - 18% off",
-    "body": "Dear test4,\n\nGet a premium flagship smartphone at a better price! The Google Pixel 8 Pro 128GB is now available with 18% off at $819.18 (from $999.00).\n\nFeaturing the Tensor G3 chip, 50MP camera, and 7-year updates, this is a great alternative with incredible value. Offer expires in 72 hours.\n\nThanks,\ntest4\n\nUnsubscribe here.\n\nCompany Name | Physical Address"
+    "body": "Dear test4,\n\nLooking for a premium smartphone? The Google Pixel 8 Pro is a fantastic alternative at a better price point than the Samsung Galaxy S24 Ultra.\n\nRegular price: $999.00\nYour price with 18% off: $819.18\n\nFeatures: Tensor G3 chip, 50MP camera, 7-year updates. This offer expires in 72 hours.\n\nShop Now\n\nThanks,\ntest4\n\nUnsubscribe here.\n\n[Company Name]\n[Physical Address]"
   },
   "whatsapp": {
-    "message": "Hi test4! Premium flagship deal: Google Pixel 8 Pro with 18% off - now $819.18. Tensor G3, 50MP camera, 7-yr updates. Expires in 72hrs. Reply STOP to unsubscribe."
+    "phone_number": "2342345435",
+    "message": "Hi test4! Premium flagship at a better price. Google Pixel 8 Pro with 18% off - now $819.18 (was $999.00). Tensor G3, 50MP camera, 7-year updates. Expires in 72 hours. Reply STOP to unsubscribe."
   }
 }
+
+---
 
 {
   "customer_id": "02b02fd2-a7ab-405f-9338-baef9912407c",
   "email": {
     "email_address": "test6@test.com",
     "subject": "iPhone at an unbeatable price - 20% off iPhone SE",
-    "body": "Dear test6,\n\nGet an iPhone at an accessible price! The iPhone SE (3rd Gen) 128GB with A15 Bionic chip is now available with 20% off at $303.20 (from $379.00 sale price).\n\nExperience the premium Apple ecosystem at a price that works for you. Offer valid for 5 days.\n\nThanks,\ntest6\n\nUnsubscribe here.\n\nCompany Name | Physical Address"
+    "body": "Dear test6,\n\nExperience the premium Apple ecosystem at an accessible price. The iPhone SE (3rd Gen) with A15 Bionic chip is now available with 20% off.\n\nSale price: $379.00\nYour price with 20% off: $303.20\n\nPremium Apple experience, accessible price. Offer valid for 5 days.\n\nClaim Discount\n\nThanks,\ntest6\n\nUnsubscribe here.\n\n[Company Name]\n[Physical Address]"
   },
   "push": {
-    "title": "20% off iPhone SE (3rd Gen)",
-    "content": "iPhone SE with A15 Bionic chip at $303.20. Premium Apple experience at an accessible price. Valid 5 days. Unsubscribe here."
+    "title": "20% off iPhone SE - unbeatable price",
+    "content": "iPhone SE (3rd Gen) with A15 Bionic chip. 20% off, now $303.20. Offer valid for 5 days. Unsubscribe here."
   }
 }
