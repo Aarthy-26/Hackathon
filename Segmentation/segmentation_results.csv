@@ -1,0 +1,9 @@
+customer_id,loyalty_tier,price_sensitivity_band,confidence_level,segmentation_reason
+9d030974-90d8-4843-81e4-469a99093323,NEW,MEDIUM,LOW,"0 orders; $0.00 total spend; no purchase history; default medium sensitivity due to insufficient behavioral data"
+d15a43b4-b874-4798-94d6-a14b595e103a,NEW,MEDIUM,LOW,"0 orders; $0.00 total spend; admin role; no purchase history; default medium sensitivity due to insufficient behavioral data"
+c392a12d-7a39-490e-92c8-339e0716ab32,NEW,MEDIUM,LOW,"0 orders; $0.00 total spend; no purchase history; default medium sensitivity due to insufficient behavioral data"
+1795738e-5349-462f-bb03-5cade99ea222,NEW,HIGH,MEDIUM,"0 orders; $0.00 total spend; cart created with 5 product views but no conversion; cart abandonment signal indicates high price sensitivity"
+56d1dbcf-5ddf-4d9c-bb52-fc83f1f85b46,NEW,LOW,HIGH,"1 order (completed); $2482.92 total spend; AOV $2482.92 in top tier; last order 2026-08-27; immediate purchase completion indicates low price sensitivity"
+aa878b8d-a03b-4639-bba1-48b7b432243c,NEW,HIGH,MEDIUM,"0 orders; $0.00 total spend; cart created with 1 item and 2 product views but no conversion; cart abandonment signal indicates high price sensitivity"
+331703b1-7058-440a-b89d-6a0856ea1489,NEW,LOW,HIGH,"1 order (completed); $3991.68 total spend; AOV $3991.68 highest in customer base; last order 2026-08-27; multi-item premium purchase indicates low price sensitivity"
+02b02fd2-a7ab-405f-9338-baef9912407c,NEW,HIGH,MEDIUM,"0 orders; $0.00 total spend; cart created with 5 product views but no conversion; cart abandonment signal indicates high price sensitivity"
