@@ -1,5 +1,0 @@
-CustomerID,Name,Address,Email,Phone,TransactionID,ProductID,ProductName,ProductCategory,PurchasedBy,PurchaseDate,TransactionAmount,LastTransactionDate
-CUST00001,Diya Sharma,"260 Anna Nagar, Delhi, Delhi 110001","diya.sharma143@example.com","ENCRYPTED(+91-9163119785)",TXN0100001,P1009,Air Purifier,Home,Diya Sharma,2024-04-14,9434.29,2024-06-07
-CUST00002,Ananya Sharma,"233 Anna Nagar, Bengaluru, Karnataka 560001","ananya.sharma518@example.com","ENCRYPTED(+91-8585650756)",TXN0100002,P1009,Air Purifier,Home,Ananya Sharma,2024-01-28,12567.45,2024-04-20
-CUST00003,Pooja Verma,"469 Lake View Road, Mumbai, Maharashtra 400001","pooja.verma285@example.com","ENCRYPTED(+91-9476477323)",TXN0100003,P1001,Laptop Pro 14,Electronics,Pooja Verma,2026-06-09,106734.41,2026-06-29
-...
