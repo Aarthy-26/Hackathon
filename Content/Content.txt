@@ -1,0 +1,78 @@
+{
+  "customer_id": "9d030974-90d8-4843-81e4-469a99093323",
+  "email": {
+    "subject": "Welcome! Get 15% off Essential Crewneck Tee",
+    "body": "Dear Customer,\n\nWelcome to our store! We're excited to have you here.\n\nEnjoy 15% off your first order on Essential Crewneck Tee at $20.40 (regular price $24.00). This offer is valid for 7 days.\n\nView Offer\n\nUnsubscribe: Reply STOP or click here to opt out.\n\n[Company Name]\n[Physical Address]"
+  },
+  "web_push": {
+    "title": "Welcome! 15% off Essential Crewneck Tee",
+    "content": "Get Essential Crewneck Tee for $20.40. Offer valid for 7 days. Unsubscribe here."
+  }
+}
+
+---
+
+{
+  "customer_id": "c392a12d-7a39-490e-92c8-339e0716ab32",
+  "email": {
+    "subject": "Start shopping with 15% off Fleece Pullover Hoodie",
+    "body": "Dear Customer,\n\nStart your shopping journey with us! Enjoy 15% off on Fleece Pullover Hoodie at $37.40 (regular price $44.00). This special offer is valid for 5 days.\n\nClaim Discount\n\nUnsubscribe: Reply STOP or click here to opt out.\n\n[Company Name]\n[Physical Address]"
+  },
+  "whatsapp": {
+    "message": "Hi! Start shopping with 15% off. Fleece Pullover Hoodie now $37.40 (from $44.00). Offer ends in 5 days. Reply STOP to unsubscribe."
+  }
+}
+
+---
+
+{
+  "customer_id": "1795738e-5349-462f-bb03-5cade99ea222",
+  "email": {
+    "subject": "Your AirPods Pro are waiting! 20% off inside",
+    "body": "Dear Customer,\n\nYour Apple AirPods Pro (2nd Gen) are waiting in your cart! Complete your purchase with 20% off - now $175.20 (regular price $219.00). This offer expires in 48 hours.\n\nShop Now\n\nUnsubscribe: Reply STOP or click here to opt out.\n\n[Company Name]\n[Physical Address]"
+  },
+  "whatsapp": {
+    "message": "Your AirPods Pro are waiting! Complete your purchase with 20% off - only $175.20 (from $219.00). Offer expires in 48 hours. Reply STOP to unsubscribe."
+  },
+  "web_push": {
+    "title": "Your AirPods Pro await! 20% off",
+    "content": "Complete your purchase - Apple AirPods Pro at $175.20. Offer expires in 48 hours. Unsubscribe here."
+  }
+}
+
+---
+
+{
+  "customer_id": "56d1dbcf-5ddf-4d9c-bb52-fc83f1f85b46",
+  "email": {
+    "subject": "Complete your MacBook Pro setup with AirPods Pro",
+    "body": "Dear Customer,\n\nComplete your MacBook Pro setup! Apple AirPods Pro (2nd Gen) with 10% off - now $197.10 (regular price $219.00). Seamless integration with your new laptop. Offer valid for 14 days.\n\nView Offer\n\nUnsubscribe: Reply STOP or click here to opt out.\n\n[Company Name]\n[Physical Address]"
+  }
+}
+
+---
+
+{
+  "customer_id": "aa878b8d-a03b-4639-bba1-48b7b432243c",
+  "email": {
+    "subject": "Premium flagship at a better price! Pixel 8 Pro",
+    "body": "Dear Customer,\n\nPremium flagship at a better price! Google Pixel 8 Pro with 18% off - now $819.18 (regular price $999.00). Tensor G3 chip, 50MP camera, 7-year updates. Offer expires in 72 hours.\n\nClaim Discount\n\nUnsubscribe: Reply STOP or click here to opt out.\n\n[Company Name]\n[Physical Address]"
+  },
+  "whatsapp": {
+    "message": "Premium flagship at a better price! Google Pixel 8 Pro with 18% off - now $819.18 (from $999.00). Tensor G3, 50MP camera, 7-year updates. Expires in 72 hours. Reply STOP to unsubscribe."
+  }
+}
+
+---
+
+{
+  "customer_id": "02b02fd2-a7ab-405f-9338-baef9912407c",
+  "email": {
+    "subject": "iPhone at an unbeatable price! SE 3rd Gen 20% off",
+    "body": "Dear Customer,\n\nIPhone at an unbeatable price! iPhone SE (3rd Gen) with A15 Bionic chip - 20% off, now $303.20 (regular price $379.00). Premium Apple experience, accessible price. Offer valid for 5 days.\n\nShop Now\n\nUnsubscribe: Reply STOP or click here to opt out.\n\n[Company Name]\n[Physical Address]"
+  },
+  "web_push": {
+    "title": "iPhone SE 3rd Gen - 20% off, now $303.20",
+    "content": "Premium Apple experience at $303.20. A15 Bionic chip included. Offer valid for 5 days. Unsubscribe here."
+  }
+}
