@@ -1,0 +1,9 @@
+customer_id,primary_interest,likely_product,intent_level,evidence
+1795738e-5349-462f-bb03-5cade99ea222,Audio Equipment,Apple AirPods Pro (2nd Gen),HIGH,"[{""event"":""PRODUCT_VIEW"",""product"":""Apple AirPods Pro (2nd Gen)"",""timestamp"":""2026-08-27T09:49:38.501912+00:00""},{""event"":""PRODUCT_VIEW"",""product"":""Apple AirPods Pro (2nd Gen)"",""timestamp"":""2026-08-27T09:49:49.600597+00:00""}]"
+56d1dbcf-5ddf-4d9c-bb52-fc83f1f85b46,Laptops,MacBook Pro 16"" M3 Pro,HIGH,"[{""event"":""PRODUCT_VIEW"",""product"":""MacBook Pro 16\"" M3 Pro"",""timestamp"":""2026-08-27T09:51:56.409361+00:00""},{""event"":""ADD_TO_CART"",""product"":""MacBook Pro 16\"" M3 Pro"",""timestamp"":""2026-08-27T09:51:57.916644+00:00""}]"
+aa878b8d-a03b-4639-bba1-48b7b432243c,Smartphones,Samsung Galaxy S24 Ultra 512GB,HIGH,"[{""event"":""PRODUCT_VIEW"",""product"":""Samsung Galaxy S24 Ultra 512GB"",""timestamp"":""2026-08-27T09:55:41.311972+00:00""},{""event"":""ADD_TO_CART"",""product"":""Samsung Galaxy S24 Ultra 512GB"",""timestamp"":""2026-08-27T09:55:42.565880+00:00""}]"
+331703b1-7058-440a-b89d-6a0856ea1489,Audio Equipment,Apple AirPods Pro (2nd Gen),HIGH,"[{""event"":""PRODUCT_VIEW"",""product"":""Apple AirPods Pro (2nd Gen)"",""timestamp"":""2026-08-27T09:59:30.373216+00:00""},{""event"":""ADD_TO_CART"",""product"":""Apple AirPods Pro (2nd Gen)"",""timestamp"":""2026-08-27T09:59:31.701792+00:00""}]"
+02b02fd2-a7ab-405f-9338-baef9912407c,Smartphones,iPhone 15 Pro Max 256GB,MEDIUM,"[{""event"":""PRODUCT_VIEW"",""product"":""iPhone 15 Pro Max 256GB"",""timestamp"":""2026-08-27T10:02:57.501812+00:00""}]"
+9d030974-90d8-4843-81e4-469a99093323,N/A,N/A,LOW,[]
+d15a43b4-b874-4798-94d6-a14b595e103a,N/A,N/A,LOW,[]
+c392a12d-7a39-490e-92c8-339e0716ab32,N/A,N/A,LOW,[]
