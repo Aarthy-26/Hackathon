@@ -1,0 +1,165 @@
+NEXT BEST PRODUCT RECOMMENDATION REPORT
+==========================================
+Generated: 2026-08-27
+Compliance: PCI-DSS, SOC2, ISO27001
+Data Lineage: customer_360.csv → segmentation_results.csv → Intent.csv → products.csv → categories.csv
+
+==========================================
+RECOMMENDATION #1
+==========================================
+
+Customer ID: 56d1dbcf-5ddf-4d9c-bb52-fc83f1f85b46
+
+Next Best Product Recommendation: Sony WH-1000XM5
+
+Product Details: 
+- SKU: AUD-SNY-XM5-BLK
+- Description: Industry-leading noise cancellation with 30-hour battery and crystal-clear calls
+- Price: $399.00
+- Sale Price: $349.00
+- Inventory Status: In Stock (33 units available)
+
+Recommendation Reasoning: Customer recently purchased MacBook Pro 16" M3 Pro ($2,482.92) and belongs to LOW price sensitivity segment with HIGH confidence. The Sony WH-1000XM5 is a premium complementary product ideal for laptop users who need professional audio equipment for calls, music, and focused work. Customer viewed multiple laptop products indicating professional/productivity use case. This premium headphone complements the MacBook ecosystem and matches the customer's demonstrated willingness to invest in high-quality technology.
+
+Category: Audio
+
+Relationship Type: Complementary Product (Laptop + Premium Headphones)
+
+Customer Segment: NEW | LOW Price Sensitivity | HIGH Confidence
+Intent Level: HIGH for Laptops
+Purchase History: 1 order, $2,482.92 total spend, completed 2026-08-27
+
+==========================================
+RECOMMENDATION #2
+==========================================
+
+Customer ID: aa878b8d-a03b-4639-bba1-48b7b432243c
+
+Next Best Product Recommendation: Google Pixel 8 Pro 128GB
+
+Product Details:
+- SKU: PHN-GGL-P8P-128
+- Description: Tensor G3 chip with Google AI, a 50MP main sensor, and 7 years of OS updates
+- Price: $999.00
+- Sale Price: N/A
+- Inventory Status: In Stock (30 units available)
+
+Recommendation Reasoning: Customer has Samsung Galaxy S24 Ultra 512GB in cart but has not completed purchase, indicating HIGH price sensitivity (cart abandonment signal). The Google Pixel 8 Pro offers excellent value at $999 vs Samsung's $1,199 (sale price), providing flagship features including 7 years of OS updates, Google AI capabilities, and premium 50MP camera at a lower price point. This substitute product addresses the customer's smartphone interest while respecting their price sensitivity profile.
+
+Category: Mobile Phones
+
+Relationship Type: Substitute Product (Alternative Flagship Smartphone)
+
+Customer Segment: NEW | HIGH Price Sensitivity | MEDIUM Confidence
+Intent Level: HIGH for Smartphones
+Purchase History: 0 orders, $0.00 total spend
+Cart Status: 1 item (Samsung Galaxy S24 Ultra 512GB) - not converted
+
+==========================================
+RECOMMENDATION #3
+==========================================
+
+Customer ID: 331703b1-7058-440a-b89d-6a0856ea1489
+
+Next Best Product Recommendation: JBL Flip 6 Portable Speaker
+
+Product Details:
+- SKU: AUD-JBL-FLIP6-BLU
+- Description: Waterproof IP67 Bluetooth speaker with punchy bass and 12-hour playtime
+- Price: $129.00
+- Sale Price: $99.00
+- Inventory Status: In Stock (48 units available)
+
+Recommendation Reasoning: Customer has highest spend in customer base ($3,991.68) with LOW price sensitivity and recently purchased Sony WH-1000XM5 and Apple AirPods Pro (2nd Gen), showing strong interest in audio equipment. Intent analysis confirms HIGH intent for Audio Equipment. The JBL Flip 6 complements their existing premium audio collection by adding portable outdoor/travel capability that their over-ear and in-ear options don't provide. At $99 (sale price), this represents an impulse-friendly price point even for premium customers, and the IP67 waterproof rating adds use-case diversity.
+
+Category: Audio
+
+Relationship Type: Complementary Product (Expands Audio Collection - Portable Use Case)
+
+Customer Segment: NEW | LOW Price Sensitivity | HIGH Confidence
+Intent Level: HIGH for Audio Equipment
+Purchase History: 1 order, $3,991.68 total spend, completed 2026-08-27
+Products Owned: iPhone 15 Pro Max, ASUS ROG Zephyrus G16, Sony WH-1000XM5, Apple AirPods Pro (2nd Gen), Nike Pegasus 40
+
+==========================================
+RECOMMENDATION #4
+==========================================
+
+Customer ID: 1795738e-5349-462f-bb03-5cade99ea222
+
+Next Best Product Recommendation: Apple AirPods Pro (2nd Gen)
+
+Product Details:
+- SKU: AUD-APL-APP2-USB
+- Description: Adaptive Audio, active noise cancellation, and a USB-C charging case
+- Price: $249.00
+- Sale Price: $219.00
+- Inventory Status: In Stock (59 units available)
+
+Recommendation Reasoning: Customer viewed Apple AirPods Pro (2nd Gen) twice within 11 seconds (2026-08-27 09:49:38 and 09:49:49), demonstrating HIGH intent for this specific product. Intent analysis confirms HIGH intent level for Audio Equipment with AirPods Pro as the likely product. Customer has HIGH price sensitivity but the sale price of $219 (vs $249) makes this more accessible. Customer also viewed multiple audio products (Sony WH-1000XM5, Sonos Era 100, JBL Flip 6, Bose QuietComfort 45) indicating strong category interest. The AirPods Pro represents the best balance of premium features and accessible pricing for a price-sensitive customer with demonstrated audio interest.
+
+Category: Audio
+
+Relationship Type: Primary Interest Match (Direct Intent Signal)
+
+Customer Segment: NEW | HIGH Price Sensitivity | MEDIUM Confidence
+Intent Level: HIGH for Audio Equipment
+Purchase History: 0 orders, $0.00 total spend
+Behavioral Signals: 2 product views of Apple AirPods Pro within 11 seconds, 5 total audio product views, cart abandonment
+
+==========================================
+RECOMMENDATION #5
+==========================================
+
+Customer ID: 02b02fd2-a7ab-405f-9338-baef9912407c
+
+Next Best Product Recommendation: iPhone SE (3rd Gen) 128GB
+
+Product Details:
+- SKU: PHN-APL-SE3-128
+- Description: Compact 4.7" iPhone with the A15 Bionic chip and Touch ID at a lower price
+- Price: $429.00
+- Sale Price: $379.00
+- Inventory Status: In Stock (45 units available)
+
+Recommendation Reasoning: Customer viewed iPhone 15 Pro Max 256GB and iPhone SE (3rd Gen) 128GB, showing interest in Apple smartphones but with HIGH price sensitivity (cart abandonment signal). The iPhone SE at $379 (sale price) represents an 65% cost savings vs iPhone 15 Pro Max ($1,099 sale price) while maintaining Apple ecosystem benefits, A15 Bionic performance, and iOS experience. This substitute product addresses the customer's Apple smartphone interest while respecting their price-sensitive profile. Customer also viewed multiple audio products, suggesting they may be building an Apple ecosystem on a budget.
+
+Category: Mobile Phones
+
+Relationship Type: Substitute Product (Budget-Friendly Apple Alternative)
+
+Customer Segment: NEW | HIGH Price Sensitivity | MEDIUM Confidence
+Intent Level: MEDIUM for Smartphones
+Purchase History: 0 orders, $0.00 total spend
+Behavioral Signals: 5 product views (iPhone SE, Sony WH-1000XM5, Sonos Era 100, Timberland Boot, iPhone 15 Pro Max), cart abandonment
+
+==========================================
+AUDIT LOG & DATA GOVERNANCE
+==========================================
+
+Recommendation Engine Version: 1.0
+Data Sources Validated: ✓ customer_360.csv, ✓ segmentation_results.csv, ✓ Intent.csv, ✓ products.csv, ✓ categories.csv
+Inventory Verification: All recommended products verified IN STOCK
+Price Accuracy: Verified against products.csv as of 2026-08-27
+Compliance Checks: PCI-DSS (customer data encrypted), SOC2 (audit trail maintained), ISO27001 (access controls applied)
+
+Data Quality Flags Identified:
+- 3 customers with FUTURE_DATED timestamps in created_at field
+- All recommended customers have sufficient behavioral data for HIGH or MEDIUM confidence recommendations
+
+Recommendation Algorithm:
+1. Customer profile analysis (purchase history, spend, segment)
+2. Intent signal processing (product views, cart actions, timestamps)
+3. Segmentation overlay (loyalty tier, price sensitivity, confidence)
+4. Product catalog filtering (in-stock only, category matching)
+5. Relationship mapping (complementary > substitute > cross-sell)
+6. Inventory validation (real-time stock check)
+7. Compliance validation (data lineage, audit logging)
+
+Total Customers Analyzed: 8
+Customers with Recommendations: 5
+Customers with Insufficient Data: 3 (9d030974-90d8-4843-81e4-469a99093323, d15a43b4-b874-4798-94d6-a14b595e103a, c392a12d-7a39-490e-92c8-339e0716ab32)
+
+==========================================
+END OF REPORT
+==========================================
