@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "1795738e-5349-462f-bb03-5cade99ea222",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "56d1dbcf-5ddf-4d9c-bb52-fc83f1f85b46",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "aa878b8d-a03b-4639-bba1-48b7b432243c",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "331703b1-7058-440a-b89d-6a0856ea1489",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "02b02fd2-a7ab-405f-9338-baef9912407c",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "9d030974-90d8-4843-81e4-469a99093323",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "d15a43b4-b874-4798-94d6-a14b595e103a",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  },
+  {
+    "customer_id": "c392a12d-7a39-490e-92c8-339e0716ab32",
+    "processed_at": "2026-08-27T10:05:00Z",
+    "consent_status": "active",
+    "data_lineage": "github://Aarthy-26/Hackathon/Output/customer_360.csv",
+    "pii_redacted": true,
+    "encryption_applied": "AES-256",
+    "compliance_flags": ["GDPR","CCPA"],
+    "audit_trail": {
+      "data_sources": ["customer_360.csv","audit_logs_product_views.csv","carts.csv"],
+      "processing_timestamp": "2026-08-27T10:05:00Z",
+      "intent_scoring_method": "repeated_behavioral_analysis",
+      "retention_period_days": 90
+    }
+  }
+]
